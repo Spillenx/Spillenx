@@ -1,4 +1,4 @@
-Web browsers are my favorite computers.
+My web broswer is my favorite computer.
 
 <!---
 Spillenx/Spillenx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
